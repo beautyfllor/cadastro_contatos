@@ -1,0 +1,28 @@
+#button{
+    width: 100%;
+    height: auto;
+    margin-top: 1%;
+    display: flex;
+    justify-content: end;
+}
+
+#cadastrar{
+    width: 17%;
+    height: 55px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: white;
+    background-color: #068ed0;
+}
+
+#cadastrar:hover{
+    background-color: #068dd0b6;
+    transition: 0.5s;
+}

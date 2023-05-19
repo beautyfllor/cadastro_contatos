@@ -1,0 +1,10 @@
+header{
+    width: 100%;
+    height: 21%;
+    display: flex;
+    align-items: center;
+    gap: 2%;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: #068ed0;
+}

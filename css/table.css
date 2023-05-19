@@ -1,0 +1,33 @@
+table{
+    margin-top: 2%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+thead{
+    height: 45px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: #068dd0;
+}
+
+th{
+    width: 300px;
+}
+
+tbody{
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+
+.informacoes{
+    height: 45px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.editar{
+    margin-right: 10px;
+}

@@ -1,0 +1,11 @@
+main{
+    width: 100%;
+    height: auto;
+    padding: 2%;
+    font-family: 'Open Sans', sans-serif;
+    color: #747070;
+}
+
+a{
+    text-decoration: none;
+}

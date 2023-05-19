@@ -1,0 +1,50 @@
+.form{
+    width: 100%;
+    height: auto;
+    display: flex;  
+    gap: 5%;
+    font-size: 1.2rem;
+}
+
+.container-inputs{
+    width: 50%;
+    height: auto;
+}
+
+.label{
+    font-weight: 600;
+}
+
+.input{
+    all: unset;
+    width: 100%;
+    height: 45px;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 2px solid #747070;
+}
+
+.input::-webkit-input-placeholder{
+    color: #747070;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.input:focus{
+    border-bottom: 2px solid #068ed0;
+}
+
+.check{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+    margin-top: 2%;
+}
+
+.checkbox{
+    width: 20px;
+    height: 20px;
+}
